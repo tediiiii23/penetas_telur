@@ -1,4 +1,4 @@
-## membuat control otomatis menggunakan arduino ide untuk inkubator telur  
+## Membuat control otomatis menggunakan arduino ide untuk inkubator telur  
 
 | Bahan-bahan | Qty |
 |---------------------|------------|
@@ -11,4 +11,4 @@
 | `Lampu pijar` | 6 pcs |
 | `Fitting lampu` | 6 pcs |  
 
-SABAR YA TEMAN-TEMAN DILANJUT NEXT SAYA BELUM TIDUR
+## SABAR YA TEMAN-TEMAN DILANJUT NEXT SAYA BELUM TIDUR
