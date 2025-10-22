@@ -11,3 +11,4 @@
 | `Lampu pijar` | 6 pcs |
 | `Fitting lampu` | 6 pcs |  
 
+SABAR YA TEMAN-TEMAN DILANJUT NEXT SAYA BELUM TIDUR
